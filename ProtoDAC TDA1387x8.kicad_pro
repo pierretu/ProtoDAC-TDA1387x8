@@ -58,7 +58,21 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|124650001|94610001|acbc23b6-6693-4907-962c-c5b16b2fd685|e23cc4ec-d581-4f29-aef2-d6eb72458d39",
+        "courtyards_overlap|128830001|97730001|a6db6063-6f82-4f04-9f15-4b8e791719cc|e23cc4ec-d581-4f29-aef2-d6eb72458d39",
+        "courtyards_overlap|130713899|97730001|a6db6063-6f82-4f04-9f15-4b8e791719cc|acbc23b6-6693-4907-962c-c5b16b2fd685",
+        "courtyards_overlap|131829999|106911024|a6db6063-6f82-4f04-9f15-4b8e791719cc|d2c8403a-e0d6-4f05-8906-6d398db61784",
+        "courtyards_overlap|132930001|97710001|2347dacf-44d8-4482-b908-88d64c1a1519|acbc23b6-6693-4907-962c-c5b16b2fd685",
+        "courtyards_overlap|132930001|97710001|2347dacf-44d8-4482-b908-88d64c1a1519|e23cc4ec-d581-4f29-aef2-d6eb72458d39",
+        "courtyards_overlap|135929999|106915443|2347dacf-44d8-4482-b908-88d64c1a1519|d2c8403a-e0d6-4f05-8906-6d398db61784",
+        "courtyards_overlap|136930001|97730001|a7501833-1680-4083-90a9-8b1e41b8b8e5|acbc23b6-6693-4907-962c-c5b16b2fd685",
+        "courtyards_overlap|136930001|97730001|a7501833-1680-4083-90a9-8b1e41b8b8e5|e23cc4ec-d581-4f29-aef2-d6eb72458d39",
+        "courtyards_overlap|139929999|106919753|a7501833-1680-4083-90a9-8b1e41b8b8e5|d2c8403a-e0d6-4f05-8906-6d398db61784",
+        "courtyards_overlap|161149999|106942619|acbc23b6-6693-4907-962c-c5b16b2fd685|d2c8403a-e0d6-4f05-8906-6d398db61784",
+        "courtyards_overlap|167770889|98684799|b737add1-1349-4f20-9a66-c6a30f007536|e23cc4ec-d581-4f29-aef2-d6eb72458d39",
+        "courtyards_overlap|167999999|109169798|b737add1-1349-4f20-9a66-c6a30f007536|d2c8403a-e0d6-4f05-8906-6d398db61784"
+      ],
       "meta": {
         "version": 2
       },
@@ -131,7 +145,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [

@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"_4, _3, _2, ",,4,,
+"C1, C2",CAPPA14200W120L4400D2450,2,C4GAMUD4150AA1J,
+"C3, C4",CP_Radial_D10.0mm_P5.00mm,2,1000uF_16V,
+H1,RPI_Hat_B+,1,RPi_GPIO,
+IC1,DIP1652W53P254L3550H510Q28N,1,TDA1541A,
+"J1, J2",936,2,936,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,470ohm,
+"R2, R3",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,2,470k,
+"R4, R5",R_Axial_DIN0516_L15.5mm_D5.0mm_P5.08mm_Vertical,2,R_DIN0516_P5.08mm,
